@@ -27,6 +27,8 @@ public class Runner {
 
 
 // remote repoda degisiklik
+
+        //dev 2 nin yaptigi degisiklik
         
     }
 }
