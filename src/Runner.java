@@ -14,7 +14,7 @@ public class Runner {
         //techpro
         //----------------------------
 
-        System.out.println("techpro");
+        System.out.println("techpro 1");
 
     }
 }
