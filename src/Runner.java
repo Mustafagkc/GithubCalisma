@@ -9,5 +9,12 @@ public class Runner {
 
         //version3
         System.out.println("version3");
+
+
+        //techpro
+        //----------------------------
+
+        System.out.println("techpro");
+
     }
 }
